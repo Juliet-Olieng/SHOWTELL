@@ -1,0 +1,50 @@
+body{
+    background-color: aqua;
+}
+.head1{
+    color: red;
+    font-size: 30px;
+    font-weight: bold;
+}
+.drop{
+    margin-left: 200px;
+    display: inline-flex;
+    color: blueviolet;
+    gap: 40px;
+    padding: 5%;
+}
+.tops{
+    display: flex;
+}
+.dress{
+    display:flex
+}
+.trousers{
+    display: flex;
+}
+img{
+    height:400px;
+    width: 300px;
+}
+.heading{
+    font-size: 30px;
+    display: flex;
+    gap:30px;
+    margin-left: 200px;
+}
+h1{
+    color: green;
+}
+.pay{
+    display: flex;
+    gap: 40px;
+    padding: 10px;
+}
+button{
+    color:white;
+    font-size: 20px;
+    padding: 10px 30px;
+    background-color: blue;
+    border-radius: 3px;
+    border: none;
+}
